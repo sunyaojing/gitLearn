@@ -5,3 +5,9 @@ this is my second fix
 module a commite
 
 test for git stash
+
+test for stage restore
+
+test add for second
+
+test for commit_id
